@@ -37,11 +37,12 @@ public class Main {
         //Classname referentialVariable(anything-class name starting with small letter is recommended) = new Classname ();
         //referentialVariable.(variable/method)
 
-        Student student = new Student();
-        student.sid=100;
-        student.sname="Raiana";
-        student.grade='A';
-        student.print();
+//        Student student = new Student();
+//        student.sid=100;
+//        student.sname="Raiana";
+//        student.grade='A';
+//        student.print();
+
 
 
     }

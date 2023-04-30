@@ -7,16 +7,21 @@ class A{
     }
 
 
+
 }
 
 class B extends A{
-    int y=200;
-    void display(){
-        System.out.println(y);
-    }
+        int y=200;
+        void display(){
+            System.out.println(y);
+        }
 
 
 }
+class C1 extends A{
+
+}
+
 
 public class InheritanceType {
 
